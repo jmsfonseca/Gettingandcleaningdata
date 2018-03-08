@@ -1,2 +1,2 @@
-# Gettingandcleaningdata
-Programming assignment Coursera
+# Getting and cleaning data
+# Programming assignment Coursera
